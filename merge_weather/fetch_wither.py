@@ -3,7 +3,7 @@ import requests
 import os
 
 # Путь к вашей папке
-folder = r"C:\Users\mezoh\OneDrive\Desktop\scada-fault-analysis\data\weather"
+folder = ('data/weather/')
 filename = os.path.join(folder, "weather.csv")
 
 # URL API
