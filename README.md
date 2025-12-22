@@ -1,4 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/clonda-cmd/scada-fault-analysis) # Анализ сработок датчиков на предприятии
+![GitHub stars](https://img.shields.io/github/stars/clonda-cmd/scada-fault-analysis) 
+## 📋 Описание
+## Анализ отказов датчиков на производ
 Исходные данные:
 Источник: CSV-логи хронологии SCADA-системы
 Обработка: Данные очищены, отфильтрованы и агрегированы.
